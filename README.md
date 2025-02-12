@@ -85,14 +85,12 @@ This project is licensed under the MIT License.
 ---
 
 Authors
-- Leo D. Alcaraz Jr - ([https://github.com/your-username](https://github.com/LeoTheAlcaraz))
+- Leo D. Alcaraz Jr - <https://github.com/LeoTheAlcaraz>
 
 ---
 
 Acknowledgments
 - [Jinja2 Documentation](https://jinja.palletsprojects.com/)
-- [Bootstrap Documentation](https://getbootstrap.com/)
-
 
 ---
 
